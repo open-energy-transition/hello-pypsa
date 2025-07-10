@@ -4,5 +4,5 @@
 *.tiff
 *.tif
 *.html
-*.png
+# *.png
 *cleared.ipynb
