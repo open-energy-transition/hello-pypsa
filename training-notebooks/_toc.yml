@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 01_the_pypsa_object
+- file: 02_view_a_network copy
+- file: 03_build_a_network.ipynb
+
+- file: oet-extension/00-reference.md
